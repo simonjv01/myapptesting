@@ -1,4 +1,6 @@
-package org.example;
+package org.example.data;
+
+import org.example.User;
 
 import java.util.HashMap;
 import java.util.Map;
